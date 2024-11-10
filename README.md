@@ -2,7 +2,7 @@
 
 This project demonstrates how to control a robotic arm using an ESP32 microcontroller, servo motors, and a mobile phone. The ESP32 creates a Wi-Fi hotspot, which the user can connect to on their mobile device. Once connected, the robotic arm can be controlled through a web page interface hosted on the ESP32, allowing for easy and convenient control of the arm via buttons.
 
-![image alt]()
+![image alt](https://github.com/SANJAY-K-04/Robotic_Arm/blob/main/Arm2.jpg?raw=true)
 
 ## Features
 - Control a robotic arm with servos using an ESP32 microcontroller.
